@@ -1,2 +1,3 @@
 $ bower install
+
 $ meteor
