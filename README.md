@@ -1,3 +1,2 @@
-bower install
-
-meteor
+$ bower install
+$ meteor
