@@ -8,3 +8,5 @@ meteor-platform
 autopublish
 insecure
 differential:vulcanize@0.0.3
+mjn:famous
+gadicohen:famous-views

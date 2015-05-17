@@ -11,3 +11,9 @@ Template.main.helpers({
     }
   ]
 });
+
+Template.main.events({
+  'click paper-item': function(e, t) {
+    console.log('paper-item clicked');
+  }
+});

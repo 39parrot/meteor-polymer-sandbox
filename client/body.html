@@ -1,5 +1,7 @@
 <body>
-  {{> main}}
+  {{#famousContext id="mainCtx"}}
+    {{>Surface template="main" size="[300, 400]" properties="background: salmon"}}
+  {{/famousContext}}
 </body>
 
 <template name="main">
