@@ -9,3 +9,5 @@ autopublish
 insecure
 differential:vulcanize@0.0.3
 iron:router
+reactive-var
+meteorhacks:inject-initial
